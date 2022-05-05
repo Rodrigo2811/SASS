@@ -8,6 +8,7 @@
         margin-top: 0;
     }
     h2 {
+        color: $color-01;
         float: left;
         font-size: $font-small;
         margin-left: $space-default;
@@ -24,4 +25,14 @@
         padding: 2rem 0;
         width: 100%;
     }
+
+}
+
+header {
+  
+    }
+
+    h4 {
+    color: $color-01;
+    font-size: $font-big;
 }
