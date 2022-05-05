@@ -68,13 +68,14 @@ h3 {
 
 header,
 footer {
-  background-color: green;
+  background-color: rgb(14, 185, 14);
 }
 
 .blocks {
   padding: 3rem 0;
 }
 .blocks h2 {
+  margin-left: 20px;
   color: #ff5;
 }
 .blocks ul {
@@ -111,7 +112,7 @@ footer {
 }
 
 .cars h2 {
-  color: green;
+  color: rgb(14, 185, 14);
 }
 .cars li {
   color: #222;
